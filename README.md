@@ -73,5 +73,5 @@ ___
     5.DELETE/address/{id}
 
 ## Project Summary
-  In this application we can Create Read Update Delete a Employees from the different api that are in this application. 
-  There are Mappings used in this application like **manytomany,onetomany,onetoone** for placing orders  
+  In this application we can Create Read Update Delete from the different api that are in this application. 
+  There are Mappings used in this application like **manytomany,onetomany,onetoone** for placing orders and Mapping Various entitites with each other  
